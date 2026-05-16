@@ -1,7 +1,6 @@
 # Deep Learning-Based Sleep Stage Classification Using Single-Channel EOG-R Signal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   <img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C" />
   <img src="https://img.shields.io/badge/Baseline%20CNN%20Accuracy-77.27%25-orange" />
   <img src="https://img.shields.io/badge/CNN--BiLSTM%20Accuracy-83.54%25-brightgreen" />
